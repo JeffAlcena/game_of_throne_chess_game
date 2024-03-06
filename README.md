@@ -23,7 +23,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - A wireframe of your main game page
 - Pseudocode for the overall game play
 
-### **Project _Approval_ Due Date:** 11/29/23 by 9:00AM EST
+### **Project _Approval_ Due Date:** 3/8/2024 by 9:00AM EST
 
 
 ## Project Requirements (MVP)
@@ -41,7 +41,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Be deployed on [Surge](https://surge.sh/) (We will cover this on Monday of project week)
 - Remove console logs before deploying
 
-### **Project _Completed_ Due Date:** 12/6/23 by 10:00 AM EST
+### **Project _Completed_ Due Date:** 3/15/2024 by 10:00 AM EST
 
 ## Tips
 
